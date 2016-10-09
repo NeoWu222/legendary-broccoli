@@ -22,7 +22,7 @@ var a = 0;
 - fourth
 - fifth
 
-[this is a new anchor](htttps://www.baidu.com/)
+[this is a new anchor](https://www.baidu.com/)
 
 [this is an anchor](https://www.baidu.com/)
 
